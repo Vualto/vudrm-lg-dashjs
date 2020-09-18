@@ -1,0 +1,10 @@
+{
+    "vendor": "Vualto Ltd",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.vudrm.lg.dashjs",
+    "title": "vudrm-lg-dashjs",
+    "type": "web",
+    "version": "1.0.0"
+}
